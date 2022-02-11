@@ -1,0 +1,29 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js ",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexilch/goit-nodejs-hw-01.git"
+  },
+  "keywords": [],
+  "author": "Alexander Ilchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexilch/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/Alexilch/goit-nodejs-hw-01#readme",
+  "dependencies": {
+    "commander": "9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
